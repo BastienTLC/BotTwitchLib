@@ -1,0 +1,6 @@
+C:\Users\TALEC\Desktop\FranklinBot\BotTwitchLib\FranklinBot\bin\Debug\FranklinBot.exe.config
+C:\Users\TALEC\Desktop\FranklinBot\BotTwitchLib\FranklinBot\bin\Debug\FranklinBot.exe
+C:\Users\TALEC\Desktop\FranklinBot\BotTwitchLib\FranklinBot\bin\Debug\FranklinBot.pdb
+C:\Users\TALEC\Desktop\FranklinBot\BotTwitchLib\FranklinBot\obj\Debug\FranklinBot.csprojAssemblyReference.cache
+C:\Users\TALEC\Desktop\FranklinBot\BotTwitchLib\FranklinBot\obj\Debug\FranklinBot.exe
+C:\Users\TALEC\Desktop\FranklinBot\BotTwitchLib\FranklinBot\obj\Debug\FranklinBot.pdb
