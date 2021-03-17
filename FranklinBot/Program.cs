@@ -10,9 +10,10 @@ namespace FranklinBot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
-            Console.WriteLine("Autre Test");
+            Bot Franklin = new Bot();
+            Franklin.Connect();
             Console.ReadLine();
+            Franklin.Disconnect();
         }
     }
 }
