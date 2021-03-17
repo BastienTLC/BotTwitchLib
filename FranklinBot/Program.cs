@@ -11,7 +11,8 @@ namespace FranklinBot
         static void Main(string[] args)
         {
             Console.WriteLine("test");
-            Console.WriteLine();
+            Console.WriteLine("Autre Test");
+            Console.ReadLine();
         }
     }
 }
