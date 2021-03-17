@@ -11,7 +11,7 @@ namespace FranklinBot
         static void Main(string[] args)
         {
             Bot Franklin = new Bot();
-            Franklin.Connect();
+            Franklin.Connect(true);
             Console.ReadLine();
             Franklin.Disconnect();
         }
